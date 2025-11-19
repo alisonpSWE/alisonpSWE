@@ -1,4 +1,4 @@
-Hey, I'm Alison Pereira. Always working with data, undergraduate student in Computer Science, and a Computer Networks technician. 
+I'm Alison Pereira. Working with data, undergraduate student in Computer Science, and a Computer Networks technician. 
 
 
 
