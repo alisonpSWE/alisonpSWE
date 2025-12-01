@@ -1,4 +1,4 @@
-I'm Alison. Working with data, undergraduate student in Computer Science, and a Computer Networks technician. 
+I'm Alison. Working with data, student in Computer Science, and a Computer Networks technician. 
 
 
 
