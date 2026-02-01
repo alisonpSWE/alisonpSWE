@@ -1,4 +1,4 @@
-## Hi, I am Alison, a final year student at the Federal University of Ceara
+## Hi, I'm Alison, a final year student at the Federal University of Ceara
 
 - 🎓 **Computer Science Student at UFC**
 - 💻 **Computer Networks Technician** (EEEP Graduate)
@@ -15,6 +15,9 @@
   </a>
   <a href="https://github.com/alisonpSWE" target="_blank">
     <img src="https://cdn.simpleicons.org/github/white" alt="Github" height="30" width="40" />
+  </a>
+  <a href="mailto:alisonp.dev@gmail.com" target="_blank">
+    <img src="https://cdn.simpleicons.org/gmail/white" alt="Gmail" height="30" width="40" />
   </a>
 </p>
 
