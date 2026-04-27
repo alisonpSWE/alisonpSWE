@@ -9,29 +9,25 @@
 
 
 ### Social profiles
-<p align="left">
-  <a href="https://www.linkedin.com/in/alisondev/" target="_blank">
-    <img src="https://api.iconify.design/simple-icons:linkedin.svg?color=%23ffffff" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://github.com/alisonpSWE" target="_blank">
-    <img src="https://cdn.simpleicons.org/github/white" alt="Github" height="30" width="40" />
-  </a>
-  <a href="mailto:alisonp.dev@gmail.com" target="_blank">
-    <img src="https://cdn.simpleicons.org/gmail/white" alt="Gmail" height="30" width="40" />
-  </a>
-</p>
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alisondev/)&nbsp;&nbsp;&nbsp;
+[![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alisonpSWE)&nbsp;&nbsp;&nbsp;
+[![Gmail](https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alisonp.dev@gmail.com)
 
 ### Languages and Tools
-<p align="left">
-  <img src="https://cdn.simpleicons.org/python/white" alt="Python" height="30" width="40" />
 
-  <img src="https://api.iconify.design/simple-icons:csharp.svg?color=%23ffffff" alt="C#" height="30" width="40" />
-  <img src="https://cdn.simpleicons.org/javascript/white" alt="JavaScript" height="30" width="40" />
-  <img src="https://cdn.simpleicons.org/typescript/white" alt="TypeScript" height="30" width="40" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/white" alt="Node.js" height="30" width="40" />
-  <img src="https://cdn.simpleicons.org/react/white" alt="React" height="30" width="40" />
-  <img src="https://cdn.simpleicons.org/openjdk/white" alt="Java" height="30" width="40" />
-  <img src="https://cdn.simpleicons.org/linux/white" alt="Linux" height="30" width="40" />
-  <img src="https://cdn.simpleicons.org/debian/white" alt="Debian" height="30" width="40" />
-  <img src="https://cdn.simpleicons.org/archlinux/white" alt="Arch Linux" height="30" width="40" />
+<p align="left">
+  <img src="https://api.iconify.design/simple-icons:python.svg?color=%23ffffff&width=30" align="absmiddle" /> <b>PYTHON</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://api.iconify.design/simple-icons:csharp.svg?color=%23ffffff&width=30" align="absmiddle" /> <b>CSHARP</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://api.iconify.design/simple-icons:javascript.svg?color=%23ffffff&width=30" align="absmiddle" /> <b>JAVASCRIPT</b> <br><br>
+
+  <img src="https://api.iconify.design/simple-icons:typescript.svg?color=%23ffffff&width=30" align="absmiddle" /> <b>TYPESCRIPT</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://api.iconify.design/simple-icons:nodedotjs.svg?color=%23ffffff&width=30" align="absmiddle" /> <b>NODE.JS</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://api.iconify.design/simple-icons:react.svg?color=%23ffffff&width=30" align="absmiddle" /> <b>REACT</b> <br><br>
+
+  <img src="https://api.iconify.design/simple-icons:openjdk.svg?color=%23ffffff&width=30" align="absmiddle" /> <b>JAVA</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://api.iconify.design/simple-icons:linux.svg?color=%23ffffff&width=30" align="absmiddle" /> <b>LINUX</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://api.iconify.design/simple-icons:debian.svg?color=%23ffffff&width=30" align="absmiddle" /> <b>DEBIAN</b> <br><br>
+
+  <img src="https://api.iconify.design/simple-icons:archlinux.svg?color=%23ffffff&width=30" align="absmiddle" /> <b>ARCH LINUX</b>
 </p>
