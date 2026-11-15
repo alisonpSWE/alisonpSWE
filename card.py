@@ -54,7 +54,7 @@ def card(s):
         [],
         title("Highlights", "- "),
         line("Award", "1st place, UFC Crateús Hackathon 2023"),
-        line("Volunteer", "FIT (Fórum de Inovação e Tecnologia)"),
+        line("Volunteer", "FIT (Fórum de Inovação e Tecnologia), 2024-2026"),
         line("Certs", "Calico Operator: Azure Expert, IBM Python for Data Science"),
         [],
         title("Contact", "- "),
