@@ -42,7 +42,7 @@ def card():
         dot(),
         line("Interests", "Open source, AI agents & LLMs, Data Science, Networking"),
         line("Hobbies.Software", "Game modding, Game dev, Language learning"),
-        line("Hobbies.Hardware", "ESP32 projects, PC building"),
+        line("Hobbies.Hardware", "Networks, Arduino projects (ESP32)"),
         [],
         title("Highlights", "- "),
         line("Award", "1st place, UFC Crateús Hackathon 2023"),
