@@ -20,10 +20,7 @@ jobs:
         with:
           python-version: "3.12"
 
-      # CARD_TOKEN = token com leitura dos repos (precisa dos privados tambem)
       - run: python card.py
-        env:
-          GH_TOKEN: ${{ secrets.CARD_TOKEN }}
 
       - run: |
           git config user.name "github-actions[bot]"
