@@ -14,7 +14,7 @@ text { fill: #24292f; white-space: pre; }
 <text x="24" y="34"><tspan class="prompt">alison@github</tspan>:<tspan class="value">~</tspan>$ neofetch --off</text>
 <text x="24" y="54">alison@github -——————————————————————————————————————————————————————————————-—-</text>
 <text x="24" y="74"><tspan class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........................................... </tspan><tspan class="value">Windows 11, Arch Linux, Debian</tspan></text>
-<text x="24" y="94"><tspan class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> .......................................... </tspan><tspan class="value">22 years, 5 months, 13 days</tspan></text>
+<text x="24" y="94"><tspan class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> .......................................... </tspan><tspan class="value">22 years, 5 months, 14 days</tspan></text>
 <text x="24" y="114"><tspan class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ...................................... </tspan><tspan class="value">Federal University of Ceará (UFC)</tspan></text>
 <text x="24" y="134"><tspan class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ......................................... </tspan><tspan class="value">Computer Science, final year</tspan></text>
 <text x="24" y="154"><tspan class="cc">. </tspan><tspan class="key">BIOS</tspan>:<tspan class="cc"> .................................... </tspan><tspan class="value">Computer Networks Technician (EEEP)</tspan></text>
